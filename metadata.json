@@ -1,0 +1,5 @@
+{
+  "name": "Stockfish Chess Analysis",
+  "description": "A cross-platform capable chess analysis tool using Stockfish and PGN parsing, designed for React and WebViews.",
+  "requestFramePermissions": []
+}
